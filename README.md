@@ -33,7 +33,7 @@ Apesar de ser baseado no Gherkin, os cenários descritos seguem uma abordagem ma
 as requisições são feitas e não o que ela faz. Em outras palavras, a linguagem utilizada nas features acaba sendo muito 
 mais técnica do que de negócio.
 
-No projeto da Base2, estamos focando no Karate para testes de API.
+
 
 
 ---------------------------------------------------
@@ -72,7 +72,7 @@ O que vamos aprender:
   - Execução por linha de comando maven.
   
 
-- Particularidades do Template Base2:
+- Particularidades do Template:
 
   - Conexão com banco de dados.
 
